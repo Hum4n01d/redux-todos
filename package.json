@@ -13,7 +13,7 @@
     "lodash": "4.17.4"
   },
   "devDependencies": {
-    "react-scripts": "1.0.0"
+    "react-scripts": "^1.0.17"
   },
   "scripts": {
     "start": "react-scripts start",
